@@ -1,0 +1,12 @@
+.main{
+    background-color: #ffefd5;
+    text-align: center;
+}
+.btn:hover{
+    color:darksalmon;
+}
+.list-group{
+    font-weight:bold ;
+    color:darkslategrey;
+    font-size:17px;
+}
